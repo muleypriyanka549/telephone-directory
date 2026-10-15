@@ -1,0 +1,4 @@
+module-info.class
+com\example\telephonedirectory\TelephoneDirectoryApp.class
+com\example\telephonedirectory\DBConnection.class
+com\example\telephonedirectory\Contact.class
